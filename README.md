@@ -17,12 +17,9 @@ User Authentication: Sign up and log in using email, Google, or Apple.
 
 Screenshots
 
-![Screenshot 2025-02-23 222523](https://github.com/user-attachments/assets/68e017a2-d1f2-4617-9434-47854332f2e3)
-
-Dashboard
+![Screenshot 2025-02-23 222523](https://github.com/user-attachments/assets/68e017a2-d1f2-4617-9434-47854332f2e3)                                                         Dashboard
 
 ![Screenshot 2025-02-23 222542](https://github.com/user-attachments/assets/9fc922d8-2b56-4b63-8b22-7f051b00bd2c)
-
 
 Authentication
 
